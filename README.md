@@ -1,2 +1,2 @@
-# -awesome-LLMs
+# awesome-LLMs
 😎 Awesome lists about LLMs
